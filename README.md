@@ -1,0 +1,1 @@
+The link to the site ramen rating app is :https://vice305.github.io/Ramen-Rating/
